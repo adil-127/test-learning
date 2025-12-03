@@ -1,1 +1,2 @@
 create a repo
+use develop branch for dev and main for production
