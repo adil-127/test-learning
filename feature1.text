@@ -1,0 +1,3 @@
+use git checkout -b feature/feature1
+
+feature is prefix here not branch which will be connected with develop then main
